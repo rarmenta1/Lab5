@@ -13,8 +13,8 @@ h1 {
 table {
   font-family: 'Strait', sans-serif;
   background: black;
-  margin: auto;
-  padding: 5px;
+  margin: 30px auto;
+  padding: 0px;
 }
 
 th {
@@ -36,8 +36,14 @@ td {
 }
 
 #Source {
-  color: yellow;
+  color: rgb(50, 205, 50);
+	background-color: black;
+	font-size: 25px;
   text-align: center;
+	width: 25%;
+	margin: 60px auto;
+	padding: auto;
+	border: 5px solid rgb(0, 191, 255);
 }
 
 .link {
