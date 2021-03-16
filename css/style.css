@@ -28,7 +28,7 @@ th {
 }
 
 td {
-  color: yellow;
+  color: purple;
   font-size: 15px;
   text-align: center;
   padding: 15px;
@@ -42,7 +42,6 @@ td {
   text-align: center;
 	width: 25%;
 	margin: 60px auto;
-	padding: auto;
 	border: 5px solid rgb(0, 191, 255);
 }
 
